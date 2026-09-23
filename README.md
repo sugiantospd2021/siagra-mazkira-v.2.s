@@ -1,6 +1,6 @@
 # siagra-mazkira-v.2.s
 
-Sistem Informasi & Administrasi Guru RA Mazkira Imani
+(SIAGRA) Sistem Informasi & Administrasi Guru Raudhatul Athfal — Mazkira Imani
 
 ## Fitur
 - Multi-role: Guru, Kepala RA, Admin
