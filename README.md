@@ -1,6 +1,6 @@
-# App Guru RA Mazkira Imani
+# siagra-mazkira-v.2.s
 
-Aplikasi manajemen pembelajaran untuk guru RA Mazkira Imani - Barito Kuala.
+Sistem Informasi & Administrasi Guru RA Mazkira Imani
 
 ## Fitur
 - Multi-role: Guru, Kepala RA, Admin
